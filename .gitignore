@@ -1,0 +1,5 @@
+bin/
+obj/
+Accounts/
+*.db
+.si.json
